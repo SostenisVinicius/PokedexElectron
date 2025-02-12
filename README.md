@@ -1,6 +1,5 @@
 # Pokédex Electron 🚀
 
-Este é um projeto desenvolvido como parte de um teste técnico para a vaga de **Frontend Developer**.  
 A aplicação é uma **Pokédex** que consome dados da **PokéAPI**, exibindo Pokémon em **cards** de forma responsiva.
 
 ## 🛠️ Tecnologias Utilizadas
@@ -20,7 +19,7 @@ A aplicação é uma **Pokédex** que consome dados da **PokéAPI**, exibindo Po
 ### **1️⃣ Clonar o Repositório**
 
 ```sh
-git clone https://github.com/seu-usuario/pokedex-electron.git
+git clone https://github.com/SostenisVinicius/PokedexElectron.git
 cd pokedex-electron
 ```
 
